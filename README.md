@@ -13,4 +13,4 @@ npm start
 
 #Go to this URL:   http://localhost:3000
 
-![Alt text](/Avatar/likeexample.JPG?raw=true)
+![Alt text](/src/likeexample.JPG?raw=true)
